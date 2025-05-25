@@ -24,7 +24,7 @@ const mockProducts: Product[] = [
     price: 24.99,
     category: 'Pens',
     stock: 15,
-    image: '/placeholder.svg'
+    image: 'https://images.unsplash.com/photo-1473091534298-04dcbce3278c?w=400&h=400&fit=crop&crop=center'
   },
   {
     id: '2',
@@ -33,7 +33,7 @@ const mockProducts: Product[] = [
     price: 12.99,
     category: 'Notebooks',
     stock: 32,
-    image: '/placeholder.svg'
+    image: 'https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=400&h=400&fit=crop&crop=center'
   },
   {
     id: '3',
@@ -42,7 +42,7 @@ const mockProducts: Product[] = [
     price: 8.99,
     category: 'Markers',
     stock: 28,
-    image: '/placeholder.svg'
+    image: 'https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=400&h=400&fit=crop&crop=center'
   },
   {
     id: '4',
@@ -51,7 +51,7 @@ const mockProducts: Product[] = [
     price: 34.99,
     category: 'Office Supplies',
     stock: 12,
-    image: '/placeholder.svg'
+    image: 'https://images.unsplash.com/photo-1586075010923-2dd4570fb338?w=400&h=400&fit=crop&crop=center'
   },
   {
     id: '5',
@@ -60,7 +60,7 @@ const mockProducts: Product[] = [
     price: 6.99,
     category: 'Office Supplies',
     stock: 45,
-    image: '/placeholder.svg'
+    image: 'https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=400&h=400&fit=crop&crop=center'
   },
   {
     id: '6',
@@ -69,7 +69,7 @@ const mockProducts: Product[] = [
     price: 18.99,
     category: 'Pencils',
     stock: 22,
-    image: '/placeholder.svg'
+    image: 'https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=400&fit=crop&crop=center'
   }
 ];
 
